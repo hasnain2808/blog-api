@@ -1,0 +1,17 @@
+SUCCESS_ERROR_CODE = 0
+
+GENERIC_ERROR_CODE = 50
+
+GENERIC_ERROR_MESSAGE = "OOPS! Something went wrong. Please try again later."
+
+USER_DOES_NOT_EXIST_ERROR_CODE = 100
+
+USER_DOES_NOT_EXIST_ERROR_MESSAGE = "User with the given user id does not exist"
+
+INVALID_USER_ID = 102
+
+INVALID_USER_ID_ERROR_MESSAGE = "User id is invalid"
+
+INVALID_DATA_ERROR_CODE = 104
+
+SERIALIZER_ERROR_CODE = 105
