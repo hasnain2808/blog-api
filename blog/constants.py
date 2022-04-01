@@ -1,0 +1,25 @@
+SUCCESS_ERROR_CODE = 0
+
+GENERIC_ERROR_CODE = 50
+
+GENERIC_ERROR_MESSAGE = "OOPS! Something went wrong. Please try again later."
+
+USER_DOES_NOT_EXIST_ERROR_CODE = 100
+
+BLOG_DOES_NOT_EXIST_ERROR_CODE = 101
+
+USER_DOES_NOT_EXIST_ERROR_MESSAGE = "User with the given user id does not exist"
+
+BLOG_DOES_NOT_EXIST_ERROR_MESSAGE = "Blog Post with the given blog id does not exist"
+
+INVALID_USER_ID = 102
+
+INVALID_BLOG_ID = 103
+
+INVALID_USER_ID_ERROR_MESSAGE = "User id is invalid"
+
+INVALID_BLOG_ID_ERROR_MESSAGE = "Blog id is invalid"
+
+INVALID_DATA_ERROR_CODE = 104
+
+SERIALIZER_ERROR_CODE = 105
